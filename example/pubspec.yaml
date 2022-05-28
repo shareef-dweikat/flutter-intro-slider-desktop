@@ -10,7 +10,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  intro_slider:
+  intro_slider_desktop:
     path: ../
 
 environment:                                                            
