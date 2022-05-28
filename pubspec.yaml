@@ -1,0 +1,22 @@
+name: intro_slider
+description: Flutter Intro Slider is a flutter plugin that helps you make a cool intro for your app
+homepage: https://github.com/duytq94/flutter-intro-slider
+version: 3.0.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_screenutil: 5.2.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.12.0"
+
+flutter:
+  fonts:
+    - family: MontserratExtraBold
+      fonts:
+        - asset: assets/fonts/montserrat/Montserrat-ExtraBold.ttf
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/montserrat/Montserrat-Regular.ttf
